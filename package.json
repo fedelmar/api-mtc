@@ -1,0 +1,28 @@
+{
+  "name": "api-mtc",
+  "version": "1.0.0",
+  "description": "Api - Medicina Tradicional China",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fedelmar/api-mtc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fedelmar/api-mtc/issues"
+  },
+  "homepage": "https://github.com/fedelmar/api-mtc#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "method-override": "^3.0.0",
+    "mongoose": "^6.0.13"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
